@@ -1,0 +1,9 @@
+1. Show the name of the artist in the browser tab
+2. Add an image of this person
+3. Add a headline revealing their name
+4. Write 3-5 sentences about this person
+5. Add a list of three (or more) achievements of this person
+6. Extra mile: For screens larger than 768px there should be two
+columns. The image should be on the left and all the text on the right.
+For screens equal or smaller than 768px there should only be one
+column and the text should be beneath the image
